@@ -18,8 +18,8 @@ Created a chat app similar to WhatsApp, while using a service called Firebase Fi
 * Learned about the App Lifecycle and how to use viewWillAppear or viewWillDisappear
 * How to create direct Segues for navigation
 
-![title](https://github.com/mikedinhnguyen/Flash-Chat/blob/master/Documentation/title_screen.png =1000x)  
+<img src="https://github.com/mikedinhnguyen/Flash-Chat/blob/master/Documentation/title_screen.png" alt="title" height="1000">
 
-![login](https://github.com/mikedinhnguyen/Flash-Chat/blob/master/Documentation/login_screen.png =1000x)  
+<img src="https://github.com/mikedinhnguyen/Flash-Chat/blob/master/Documentation/login_screen.png" alt="login" height="1000">
 
-![chat](https://github.com/mikedinhnguyen/Flash-Chat/blob/master/Documentation/chat_screen.png =1000x)
+<img src="https://github.com/mikedinhnguyen/Flash-Chat/blob/master/Documentation/chat_screen.png" alt="chat" height="1000">
